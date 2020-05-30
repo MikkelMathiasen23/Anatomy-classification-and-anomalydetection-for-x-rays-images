@@ -5,4 +5,6 @@ In the model evaluation folder the code used for evaluating the models such as p
 
 In the Grid-Search-results folder the code used for grid search optimization of the hyperparameters can be found. 
 
+The preliminary analysis folder contain the code used for the initial analysis such as the distribution of samples in the different classes and PCA analysis of the data.
+
 The ROI detection algorithm python file contains the code used for extracting the region of interest. 
