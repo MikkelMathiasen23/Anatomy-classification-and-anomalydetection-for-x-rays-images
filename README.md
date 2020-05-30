@@ -1,2 +1,2 @@
-# Anatomy-classification-and-anomalydetection-for-x-rays-images
+# Anatomy-classification-and-anomaly-detection-for-x-rays-images
 Code used for bachelor thesis
